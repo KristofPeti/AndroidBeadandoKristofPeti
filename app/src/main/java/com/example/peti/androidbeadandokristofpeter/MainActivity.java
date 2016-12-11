@@ -54,10 +54,8 @@ public class MainActivity extends AppCompatActivity {
                 "com.example.app", Context.MODE_PRIVATE);
 
 
-        String a = prefs.getAll().toString().substring(7);
 
-
-     return a;
+     return prefs.getAll().toString().substring(7);
 
     }
 }

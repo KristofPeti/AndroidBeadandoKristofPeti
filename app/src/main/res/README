@@ -1,0 +1,11 @@
+Az alkalmazásom kezdeti képernyője egy login ablak ahol 2 field van, egy emailnek és egy a jeszónak.
+
+Ha a field elveszíti a focust akor leellenőrzi a bevitt adatot.
+
+Ha a User a Login Gombra kattint bejelentkezik és eltárolódik az email címe a Sharedpreferences-be.
+
+A login ablakon belül alul 2 nyelvválasztó gomb van amivel nyelvet lehetne választani.
+
+egyenlőre ezt még nem sikerült megoldanom.
+
+Bejelentkezés után A User email címe láthatóvá válik, illetve a Main_activityben található egy logout gomb is ami bezárja az applikációt.
